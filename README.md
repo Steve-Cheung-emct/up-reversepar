@@ -1,6 +1,8 @@
 # up-reversepar
 upLaTeX-R2L横书-form 斋藤修三郎
 
+http://psitau.kitunebi.com/righttoleft.html 
+
 
 安装 虚拟字体
 
